@@ -1,0 +1,9 @@
+Control,Asset or System,Evidence Type,Evidence Location,Owner,Date Collected,Status,Notes
+Application control,Example endpoint group,Configuration export,,Security team,,Not assessed,
+Patch applications,Example application estate,Patch compliance report,,IT operations,,Not assessed,
+Microsoft Office macro settings,Microsoft 365 tenant,Policy setting export,,Modern workplace team,,Not assessed,
+User application hardening,Managed browser profile,Configuration screenshot,,Endpoint team,,Not assessed,
+Restrict administrative privileges,Privileged identity platform,Access review record,,Identity team,,Not assessed,
+Patch operating systems,Server fleet,Patch compliance report,,Infrastructure team,,Not assessed,
+Multi-factor authentication,Identity provider,MFA enforcement report,,Identity team,,Not assessed,
+Regular backups,Backup platform,Restore test evidence,,Infrastructure team,,Not assessed,
